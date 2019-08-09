@@ -1,0 +1,1 @@
+while sleep 0.050; do curl http://localhost:8888; done
